@@ -1,5 +1,5 @@
 [//]: # (template by imickovski)
-<h1>Hello, I'm Mahardicka 🙋‍</h1>
+<h1>Hello, I'm Mahardika 🙋‍</h1>
 <hr>
 
 <h3>How to reach me:</h3>
